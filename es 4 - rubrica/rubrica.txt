@@ -1,0 +1,3 @@
+bombieri nicola;bombieri;nicola;333;nicola.bombieri@univr.it;2;Verona;37134;VR;strada le grazie;15
+bonnici vincenzo;bonnici;vincenzo;333;vincenzo.bonnici@univr.it;2;Verona;37134;VR;strada le grazie;15
+boscaini maurizio;boscaini;maurizio;333;maurizio.boscaini@univr.it;2;Verona;37134;VR;strada le grazie;15
